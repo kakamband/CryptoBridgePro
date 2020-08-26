@@ -6,6 +6,14 @@ Connect MetaTrader platform to your favorite Crypto Exchanges for trading, robot
 * Binance spot and Futures
 * Bitmex 
 * Coming soon: FTX - Coinbase - Deribit - Huobi - Okex 
+# Unified Class 
+Code your projects once and trade on several crypto exchanges 
+* binance
+* bybit
+* bitmex 
 
 # Repo 
 Located [here](https://github.com/TradingToolCrypto/MT5-TradingToolCrypto) 
+
+# Group Chat
+[Telegram](https://t.me/TradingToolCrypto)
