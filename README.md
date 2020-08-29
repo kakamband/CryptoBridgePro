@@ -3,6 +3,11 @@
 *  [mt5 allow webrequests](https://github.com/TradingToolCrypto/TradingTool/wiki/2.-Allow-Webrequests)
 *  [attach payment bot](https://github.com/TradingToolCrypto/TradingTool/wiki/3.-Payment-Bot)
 
+# Wiki 
+* [Features](https://github.com/TradingToolCrypto/TradingTool/wiki/Exchange-CryptoBridgePro-1)
+* [Make a Trade](https://github.com/TradingToolCrypto/TradingTool/wiki/Exchange-CryptoBridgePro-2)
+* [Send Signal to Telegram](https://github.com/TradingToolCrypto/TradingTool/wiki/Exchange-CryptoBridgePro-3)
+
 ![cryptobridgepro image](https://github.com/TradingToolCrypto/CryptoBridgePro/blob/master/BTCUSDTM1.png)
 
 # CryptoBridgePro
